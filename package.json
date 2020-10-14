@@ -1,0 +1,24 @@
+{
+  "name": "phocus-utiljs",
+  "version": "1.0.11",
+  "description": "common.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhocusBeijing/common.git"
+  },
+  "keywords": [
+    "vue",
+    "util",
+    "methods"
+  ],
+  "author": "Steve Wins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhocusBeijing/common/issues"
+  },
+  "homepage": "https://github.com/PhocusBeijing/common#readme"
+}
